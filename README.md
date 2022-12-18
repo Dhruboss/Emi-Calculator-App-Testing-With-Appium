@@ -22,9 +22,7 @@
 
 - To generate report hit this command
 
- 'allure generate allure-results --clean -o allure-report'
-
- 'allure serve allure-results'
+   'allure generate allure-results --clean -o allure-report' and 'allure serve allure-results'
 
 ## Pre-requisite
 - java 8 or 11 lts jdk must me installed
