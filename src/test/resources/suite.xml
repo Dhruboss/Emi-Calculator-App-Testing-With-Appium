@@ -1,0 +1,7 @@
+<suite name="Calculate Emi from dataset">
+    <test name="Calculate Emi from dataset">
+        <classes>
+            <class name="testrunner.CalculateEmiTestRunner"/>
+        </classes>
+    </test>
+</suite>
